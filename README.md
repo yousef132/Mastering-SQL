@@ -14,3 +14,12 @@
  
 * [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
    * [Solution](https://www.hackerrank.com/challenges/more-than-75-marks/submissions/code/338831179)
+ 
+* [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)
+   * [Solution](https://www.hackerrank.com/challenges/weather-observation-station-12/submissions/code/338830575)
+ 
+* [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
+   * [Solution](https://www.hackerrank.com/challenges/what-type-of-triangle/submissions/code/338646762)
+     
+ 
+
