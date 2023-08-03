@@ -20,6 +20,9 @@
  
 * [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
    * [Solution](https://www.hackerrank.com/challenges/what-type-of-triangle/submissions/code/338646762)
+ 
+* [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)
+   * [Solution](https://www.hackerrank.com/challenges/asian-population/submissions/code/339194499)
      
  
 
