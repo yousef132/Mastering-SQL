@@ -23,6 +23,9 @@
  
 * [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)
    * [Solution](https://www.hackerrank.com/challenges/asian-population/submissions/code/339194499)
+ 
+* [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=false)
+   * [Solution](https://www.hackerrank.com/challenges/the-company/submissions/code/339476698)
      
  
 
