@@ -43,7 +43,7 @@
 * [ Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
    * [Solution](https://leetcode.com/submissions/detail/1024149534/)
  
-* [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)
+* [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)
    * [Solution](https://leetcode.com/submissions/detail/1024369333/)
  
 
