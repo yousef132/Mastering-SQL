@@ -1,5 +1,9 @@
 # Here are some solutions to problems on HackerRank for practicing and mastering SQL
 
+---
+## Hackerrank
+---
+
 * [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=false)
    * [Solution](https://www.hackerrank.com/challenges/the-report/submissions/code/338798586)
 
@@ -26,6 +30,20 @@
  
 * [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=false)
    * [Solution](https://www.hackerrank.com/challenges/the-company/submissions/code/339476698)
-     
+
+
+
+
+
+----
+## Leetcode
+* [Employee Bonus](https://leetcode.com/problems/employee-bonus/)
+   * [Solution](https://leetcode.com/submissions/detail/1020620144/)
+ 
+* [ Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
+   * [Solution](https://leetcode.com/submissions/detail/1024149534/)
+ 
+* [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1024369333/)
  
 
