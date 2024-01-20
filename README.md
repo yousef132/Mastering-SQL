@@ -1,4 +1,4 @@
-# Here are some solutions to problems on HackerRank for practicing and mastering SQL
+# Here are some solutions to problems on HackerRank & Leetcode for practicing and mastering SQL
 
 ---
 ## Hackerrank
