@@ -49,4 +49,8 @@
 * [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/)
    * [Solution](https://leetcode.com/submissions/detail/1024378631/)
  
+* [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1020560519/)
 
+* [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1020583705/)
