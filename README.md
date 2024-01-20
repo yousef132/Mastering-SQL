@@ -54,3 +54,11 @@
 
 * [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50)
    * [Solution](https://leetcode.com/submissions/detail/1020583705/)
+
+
+* [Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1020585588/)
+ 
+* [Article Views I](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1020587170/)
+ 
