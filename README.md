@@ -37,6 +37,50 @@
 
 ----
 ## Leetcode
+
+* [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1095804714/)
+ 
+* [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1096406149/)
+
+
+* [Investments in 2016](https://leetcode.com/problems/investments-in-2016/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1094211703/)
+ 
+* [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1079121404/)
+ 
+
+
+* [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1096373081/)
+
+
+* [Movie Rating](https://leetcode.com/problems/movie-rating/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1076579395/)
+
+ * [exchange seats](https://leetcode.com/problems/exchange-seats/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1096360863/)
+
+
+  
+* [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1093472273/)
+
+
+ * [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1093452499/)
+
+
+* [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1093372809/)
+
+
+* [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/?envType=study-plan-v2&envId=top-sql-50)
+   * [Solution](https://leetcode.com/submissions/detail/1093415643/)
+
+
 * [Employee Bonus](https://leetcode.com/problems/employee-bonus/)
    * [Solution](https://leetcode.com/submissions/detail/1020620144/)
  
